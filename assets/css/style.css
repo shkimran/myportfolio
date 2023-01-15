@@ -17478,7 +17478,7 @@ span.sr-only {
   transition: var(--transition);
   color: var(--color-lightn);
   font-weight: 600;
-  font-size: 23px;
+  font-size: 20px;
   line-height: 34px;
   display: inline-block;
 }
